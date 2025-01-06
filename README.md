@@ -10,3 +10,13 @@ Currently, two official plugins are available:
 =======
 # EmployeeManagement
 >>>>>>> 818979c8a19b1b3ac9d5076e6d290d99c8057730
+
+
+there are fixed users and fixed admin
+admin with:
+  email = admin@me.com
+  password = 123
+
+some eployees with:
+  email = employee1@example.com
+  password = 123
